@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="usedBooks-Web.config Connection String" description="usedBooks Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5106.site4now.net;Initial Catalog=db_a9af3b_usedbooks;User Id=db_a9af3b_usedbooks_admin;Password=area00Uu" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\projects\\usedBooks-with\ out\ AI\\usedBooks\\usedBooks\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='usedBooks']/@connectionString" />
+  </parameter>
+  <parameter name="usedBooksxx-Web.config Connection String" description="usedBooksxx Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-10UFHNL7\SQLEXPRESS;Initial Catalog=medicalSupport;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\projects\\usedBooks-with\ out\ AI\\usedBooks\\usedBooks\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='usedBooksxx']/@connectionString" />
+  </parameter>
+  <parameter name="usedBooksCtr-Web.config Connection String" description="usedBooksCtr Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-10UFHNL7\SQLEXPRESS;Initial Catalog=usedBooks;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\projects\\usedBooks-with\ out\ AI\\usedBooks\\usedBooks\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='usedBooksCtr']/@connectionString" />
+  </parameter>
+  <parameter name="usedBooksConnectionString-Web.config Connection String" description="usedBooksConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-10UFHNL7\SQLEXPRESS;Initial Catalog=usedBooks;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\projects\\usedBooks-with\ out\ AI\\usedBooks\\usedBooks\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='usedBooksConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
